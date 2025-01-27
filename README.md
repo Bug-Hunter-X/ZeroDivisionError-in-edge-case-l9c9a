@@ -1,0 +1,3 @@
+# Python Uncommon Error: ZeroDivisionError in Edge Case
+
+This repository demonstrates an uncommon error scenario in Python: a `ZeroDivisionError` arising from an edge case in which both inputs to a division operation are zero.  The error is often overlooked because simple testing might not cover this specific combination of inputs.  The `bug.py` file shows the problematic code, while `bugSolution.py` provides a corrected version with improved error handling.
